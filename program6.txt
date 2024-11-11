@@ -3,3 +3,9 @@ welcome to git hub
 hi hello aaajuyfh
 qewrtyuu fsgtdf
 asdfg ght
+<<<<<<< HEAD
+=======
+reverting
+hi hello
+yrtgfdygf
+>>>>>>> f6b28d98cafbb6d6214ef22704dd0cf3597759b0
